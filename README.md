@@ -36,6 +36,16 @@ Install dependencies with go
 
 `go mod tidy`
 
+# Environment Variables
+
+```
+MONGO_URI=mongodb+srv://...
+DATABASE_NAME=...
+PORT_NUMBER=...
+```
+
+`go mod tidy`
+
 # Run
 
 `go run main.go`
