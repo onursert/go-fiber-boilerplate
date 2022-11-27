@@ -31,5 +31,11 @@ main.go
 ```
 
 # Dependencies
+
 Install dependencies with go
+
 `go mod tidy`
+
+# Run
+
+`go run main.go`
