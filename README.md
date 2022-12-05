@@ -44,8 +44,6 @@ DATABASE_NAME=...
 PORT_NUMBER=...
 ```
 
-`go mod tidy`
-
 # Run
 
 `go run main.go`
